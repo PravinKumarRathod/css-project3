@@ -336,7 +336,7 @@ width: 100%;
 
 
 #left h1{
-    font-size: 15vw;
+    font-size: 18vw;
     font-weight: 500;
     line-height: 12vw;
 }
@@ -347,15 +347,15 @@ width: 100%;
 }
 
 #colors{
-    padding: 6px 10px;
+    padding: 8px 10px;
 }
 #colors h5{
-    font-size: 2.5vw;
+    font-size: 3vw;
     margin-right: 10px;
 }
 #cl1,#cl2{
-    height: 2.5vw;
-    width: 2.5vw;
+    height: 3vw;
+    width: 3vw;
 }
 
 #left h3{
@@ -368,8 +368,8 @@ width: 100%;
 
 #left p{
     width: 90%;
-    font-size: 2.3vw;
-    line-height: 2.5vw;
+    font-size: 3vw;
+    line-height: 3.5vw;
 
 }
 #right{
